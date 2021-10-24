@@ -13,3 +13,5 @@
 [2. K-NN](https://rebro.kr/183)
 
 [3. K-NN Regression](https://rebro.kr/184)
+
+[4. Simple Linear Regression](https://rebro.kr/185)
